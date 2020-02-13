@@ -58,7 +58,7 @@
         android:background="@drawable/btn_white_large"
         android:fontFamily="@font/futura_pt_demibold"
         android:text="service provider"
-        android:textColor="#000"
+        android:textColor="#E74040"
         android:textSize="15dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
